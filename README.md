@@ -1,2 +1,2 @@
-# sharpy
-Simulation of dynamic aeroelasticity for high aspect ratio structures
+# ULTRA software suite
+Suite of codes and libraries at the basis of RHEA
