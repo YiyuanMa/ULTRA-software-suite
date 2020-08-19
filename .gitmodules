@@ -10,3 +10,6 @@
 [submodule "smart-uq"]
 	path = smart-uq
 	url = https://github.com/strath-ace-labs/smart-uq.git
+[submodule "smart-math"]
+	path = smart-math
+	url = https://github.com/strath-ace-labs/smart-math.git
