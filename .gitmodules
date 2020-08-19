@@ -7,3 +7,6 @@
 [submodule "smart-o2c"]
 	path = smart-o2c
 	url = https://github.com/strath-ace-labs/smart-o2c.git
+[submodule "smart-uq"]
+	path = smart-uq
+	url = https://github.com/strath-ace-labs/smart-uq.git
