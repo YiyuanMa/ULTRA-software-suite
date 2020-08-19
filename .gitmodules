@@ -1,3 +1,6 @@
 [submodule "sharpy"]
 	path = sharpy
 	url = https://github.com/ImperialCollegeLondon/sharpy
+[submodule "MODES"]
+	path = MODES
+	url = https://github.com/strath-ace-labs/MODES.git
