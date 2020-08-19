@@ -4,3 +4,6 @@
 [submodule "MODES"]
 	path = MODES
 	url = https://github.com/strath-ace-labs/MODES.git
+[submodule "smart-o2c"]
+	path = smart-o2c
+	url = https://github.com/strath-ace-labs/smart-o2c.git
