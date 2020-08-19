@@ -11,3 +11,5 @@ Suite of codes and libraries at the basis of RHEA. ULTRA is a collection of tool
 8. SMART-UQ - Uncertainty quantification toolbox
 
 Other external tools that are used and not modified within RHEA are: SU2 (https://github.com/su2code/SU2), gmsh (https://gmsh.info).
+
+NOTE: Please ensure you are checking out the feature-RHEA branch for the various libraries to ensure consistency and compatibiity of tools.
