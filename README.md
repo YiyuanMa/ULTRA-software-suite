@@ -4,7 +4,7 @@ Suite of codes and libraries at the basis of RHEA. ULTRA is a collection of tool
 1. FEMWET - Adjoint-based aerostructual conceptual design
 2. GEMS - Multi-level optimisation framework
 3. MODES - Adaptive Reduced Order algorithms for aerodynamics
-4. SHARPY - Nonlinear simulation and analysis package for the structural, aerodynamic, and coupled aeroelastic/flight dynamics analysis
+4. SHARPy - Nonlinear aeroelastic simulation (https://www.imperial.ac.uk/aeroelastics/sharpy/)
 5. SUAVE - Conceptual level aircraft design environment
 6. SMART-MATH - Mathematical toolbox
 7. SMART-O2C - Toolbox with optimisation algorithms
